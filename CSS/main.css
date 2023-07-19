@@ -1463,9 +1463,3 @@ form input:focus {
 
 
 /* drawer */
-
-/* .Menu.is-open .Menu__link {
-  opacity: 1;
-  transform: translateX(0);
-  transition-delay: calc(0.025s * var(--index));
-} */
